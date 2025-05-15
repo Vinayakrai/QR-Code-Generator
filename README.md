@@ -2,8 +2,7 @@
 
 A sleek and minimal QR Code generator that lets you **style your QR with emoji themes** like 📱 Mobile Phone, 🎬 Clapboard, or 📜 Scroll — and download the final design as a PNG!
 
-![image](https://github.com/user-attachments/assets/c8e3b199-4561-43de-8123-136d7f251979)
-
+![image](https://github.com/user-attachments/assets/6826018b-1265-448e-93e1-0ac70a19008a)
 
 ---
 
